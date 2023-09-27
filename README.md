@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Elsai Deribu
-- 👀 I’m interested in calisthenics
-- 🌱 I’m currently learning at Addis Ababa University
 - 💞️ I’m looking to collaborate on React.js, Next.js, Tailwind, Bootstrap, Flutter, Node.js, ASP.NET
 - 📫 How to reach me phone: +251910738802 or email:elsaideribu7@gmail.com
 
