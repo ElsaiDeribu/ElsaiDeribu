@@ -2,13 +2,6 @@
 - 💞️ I’m looking to collaborate on React.js, Next.js, Tailwind, Bootstrap, Flutter, Node.js, ASP.NET
 - 📫 How to reach me phone: +251910738802 or email:elsaideribu7@gmail.com
 
-<!---
-ElsaiDeribu/ElsaiDeribu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<h2>My Github Status</h2>
-<img src = "https://github-readme-stats.vercel.app/api?username=ElsaiDeribu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 
 ### :hammer_and_wrench:                   Languages and Frameworks
