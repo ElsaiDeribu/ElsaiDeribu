@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elsai Deribu
-- 💞️ I’m looking to collaborate on React.js, Next.js, Tailwind, Bootstrap, Flutter, Node.js, ASP.NET
-- 📫 How to reach me phone: +251910738802 or email:elsaideribu7@gmail.com
+-  I’m looking to collaborate on React.js, Next.js, Tailwind, Bootstrap, Flutter, Node.js, ASP.NET
+-  How to reach me email:elsaideribu7@gmail.com
 
 
 
