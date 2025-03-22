@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elsai Deribu
--  I’m looking to collaborate on React.js, Next.js, Tailwind, Bootstrap, Flutter, Node.js, ASP.NET
+-  I’m looking to collaborate on React.js/Next.js/React Native/Tailwind, Node.js/Express.js, ASP.NET, Django/Flask/FastAPI
 -  How to reach me email:elsaideribu7@gmail.com
 
 
