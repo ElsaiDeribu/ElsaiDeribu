@@ -1,4 +1,4 @@
-<div align="start">
+<div align="center">
 
 # 👨‍💻🚀 Welcome to My GitHub Profile!
 
@@ -8,7 +8,7 @@ Here you'll find my personal projects, contributions, and collaborations.
 
 <br>
 
-<div align="start">
+<div align="center">
       
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsaideribu/)   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Elsai/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elsaideribu7@gmail.com)
 
