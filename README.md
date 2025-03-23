@@ -1,6 +1,20 @@
-- 👋 Hi, I’m Elsai Deribu
--  I’m looking to collaborate on React.js/Next.js/React Native/Tailwind, Node.js/Express.js, ASP.NET, Django/Flask/FastAPI
--  How to reach me email:elsaideribu7@gmail.com
+<div align="start">
+
+# 👨‍💻🚀 Welcome to My GitHub Profile!
+
+## I'm **Elsai Deribu**, a passionate software engineer specializing in **full-stack development**.  
+
+🌐 Here you'll find my personal projects, contributions, and collaborations.
+
+<br>
+
+<div align="start">
+      
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsaideribu/)   [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Elsai/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elsaideribu7@gmail.com)
+
+</div>
+
+</div>
 
 
 <br>
