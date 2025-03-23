@@ -2,9 +2,9 @@
 
 # 👨‍💻🚀 Welcome to My GitHub Profile!
 
-## I'm **Elsai Deribu**, a passionate software engineer specializing in **full-stack development**.  
+<h3>I'm Elsai Deribu, a passionate software engineer specializing in full-stack development.  </h3>
 
-🌐 Here you'll find my personal projects, contributions, and collaborations.
+Here you'll find my personal projects, contributions, and collaborations.
 
 <br>
 
@@ -17,7 +17,6 @@
 </div>
 
 
-<br>
 <p align="center">
       <h1 align="center"><strong>:hammer_and_wrench:Languages and Frameworks</strong> </h2>
 </p>
