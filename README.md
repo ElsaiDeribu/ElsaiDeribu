@@ -49,6 +49,10 @@ Here you'll find my personal projects, contributions, and collaborations.
 <div>
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+    <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+    <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;
+    
+      
 </div>
 
   </div>
