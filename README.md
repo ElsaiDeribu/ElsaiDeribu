@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻🚀 Welcome to My GitHub Profile!
+# 👨‍💻 Welcome to My GitHub Profile!
 
 <h3>I'm Elsai Deribu, a passionate software engineer specializing in full-stack development.  </h3>
 
