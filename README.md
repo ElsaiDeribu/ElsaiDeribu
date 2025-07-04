@@ -36,7 +36,6 @@ Here you'll find my personal projects, contributions, and collaborations.
     <img class="dev-icon p-5 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
     <img class="dev-icon" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-    <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
