@@ -2,7 +2,7 @@
 
 # 👨‍💻 Welcome to My GitHub Profile!
 
-<h3>I'm Elsai Deribu, a passionate software engineer specializing in full-stack development.  </h3>
+<h2>I'm Elsai Deribu, a passionate software engineer specializing in full-stack development.  </h2>
 
 Here you'll find my personal projects, contributions, and collaborations.
 
