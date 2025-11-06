@@ -4,7 +4,6 @@
 
 <h2>I'm Elsai Deribu, software engineer specializing in full-stack development.  </h2>
 
-Here you'll find my personal projects, contributions, and collaborations.
 
 <br>
 
