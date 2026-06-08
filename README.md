@@ -40,6 +40,7 @@
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="65" height="65"/>&nbsp;&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="65" height="65"/>&nbsp;&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="ASP.NET" alt="ASP.NET" width="45" height="45"/>&nbsp;&nbsp;
+      <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="38" height="38"/>&nbsp;&nbsp;
   </div>
   <br>
 
@@ -52,8 +53,6 @@
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;&nbsp;
     <img class="dev-icon p-2 border-2 rounded-lg" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Docker" alt="Docker" width="60" height="60"/>&nbsp;&nbsp;
-    
-      
 </div>
 
   </div>
