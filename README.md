@@ -3,7 +3,7 @@
 # 👨‍💻 Welcome to My GitHub Profile!
 
 <p>
-  Hi, I'm Elsai Shumi, a Software Engineer with extensive experience in full-stack development, building production AI systems, enterprise-scale deployments, and architecting and delivering scalable, high-performance web and mobile applications end-to-end.
+  Hi, I'm Elsai Shumi, a Software Engineer with extensive experience in full-stack development, building production AI systems, enterprise-scale deployments, and architecting and delivering scalable, web and mobile applications end-to-end.
 </p>
 
 
