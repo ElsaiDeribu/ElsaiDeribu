@@ -2,7 +2,9 @@
 
 # 👨‍💻 Welcome to My GitHub Profile!
 
-<h2>I'm Elsai Deribu, software engineer specializing in full-stack development.  </h2>
+<p>
+  Hi, I'm Elsai Shumi, a Software Engineer with extensive experience in full-stack development, building production AI systems, enterprise-scale deployments, performance optimization, and architecting and delivering scalable, high-performance web and mobile applications end-to-end.
+</p>
 
 
 <br>
